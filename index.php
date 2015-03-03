@@ -2,6 +2,7 @@
 	<head>
 		<!-- Bootstrap -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
+                <meta charset="UTF-8">
 	</head>
 	<body>
 	<h2>PHP lenguaje de lado del servidor</h2>
@@ -18,7 +19,7 @@
 	</div>
 	<hr>
 	<h2>JAVASCRIPT lenguaje del lado del cliente</h2>
-	<div class="alert alert-success"><p>ESTO LO ESCRIBIO HETZA DESDE GIT</p></div>        
+        <div class="alert alert-success"><p>ESTO LO ESCRIBIO HETZA DESDE GIT</p><a href="hetza.php" >Visita mi página</a></div>        
 	<p>Serie de Fibonacci</p>
 	<ol id="fibo">
 		
