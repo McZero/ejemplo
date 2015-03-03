@@ -18,6 +18,7 @@
 	</div>
 	<hr>
 	<h2>JAVASCRIPT lenguaje del lado del cliente</h2>
+	<div class="alert alert-success"><p>ESTO LO ESCRIBIO HETZA DESDE GIT</p></div>        
 	<p>Serie de Fibonacci</p>
 	<ol id="fibo">
 		
