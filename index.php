@@ -1,11 +1,12 @@
 <html>
 	<head>
+		<meta charset="UTF-8">
 		<!-- Bootstrap -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 	</head>
 	<body>
 	<h2>PHP lenguaje de lado del servidor</h2>
-	<div class="alert alert-info">Esto lo escribio carlos</div>
+	<div class="alert alert-info">Esto lo escribio carlos <a href="carlos.php">Click aqui!</a></div>
 	<div class="row">
 		<div class="col-md-2"><p>Tabla de multiplicar del 7</p></div>
 		<div class="col-md-4">
