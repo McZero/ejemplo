@@ -5,6 +5,7 @@
 	</head>
 	<body>
 	<h2>PHP lenguaje de lado del servidor</h2>
+	<div class="alert alert-info">Esto lo escribio carlos</div>
 	<div class="row">
 		<div class="col-md-2"><p>Tabla de multiplicar del 7</p></div>
 		<div class="col-md-4">
